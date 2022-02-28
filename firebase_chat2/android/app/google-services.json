@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533383877066",
+    "project_id": "vitor-firebase-teste",
+    "storage_bucket": "vitor-firebase-teste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533383877066:android:24650540da9ec86b0fff33",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533383877066-v8kooh9gjesof21gsjo0o2faaplidq0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPwsmLnPlXOhIFUyQKugSu5fLNmJC-n7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533383877066-v8kooh9gjesof21gsjo0o2faaplidq0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
